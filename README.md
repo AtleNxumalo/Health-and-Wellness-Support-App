@@ -5,7 +5,7 @@ The **Health and Wellness Support App** is a community-driven mobile application
 
 ## Project Managers
 - Atlehang Nxumalo | ST10369736
-- Rudado Pamacheche | ST
+- Rudado Pamacheche | ST10322880
 
 ## Features
 - **Local Healthcare Resources**: Access to nearby hospitals, clinics, and health professionals.
